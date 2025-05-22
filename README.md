@@ -1,6 +1,7 @@
 # Bitirme Projesi
-21703912 - Rauf Nuriyev
-21430070041 - Sidar Ülek
+- 21430070041-Sidar Ülek
+- 21703912-Rauf Nuriyev
+
 # Dosya Drive Linki: 
 https://drive.google.com/file/d/1aKltUhfr-m7WWU4NGcMEncMyQZC0E52x/view?usp=sharing
 
@@ -91,12 +92,12 @@ Silah mekaniği hem animasyon hem de ses efektleriyle desteklenmiştir.
 6. Öğrenme Hedefleri / Katkıları
 Bu proje ile fizik kurallarının oyun ortamına nasıl entegre edilebileceği öğrenilmiştir. Özellikle:
 
-Gerçek dünya fiziği ile oyun mekaniği arasında köprü kurma,
+- Gerçek dünya fiziği ile oyun mekaniği arasında köprü kurma,
 
-Blueprint sistemleriyle etkileşimli objeler oluşturma,
+- Blueprint sistemleriyle etkileşimli objeler oluşturma,
 
-Oyuncu deneyimini artıran fizik tabanlı tasarım yöntemleri geliştirme becerileri kazanılmıştır.
+- Oyuncu deneyimini artıran fizik tabanlı tasarım yöntemleri geliştirme becerileri kazanılmıştır.
 
 7. Sonuç ve Değerlendirme
-Bu proje, Unreal Engine 5 kullanılarak geliştirilen fizik temelli bir parkur oyununun temel oyun mekaniği, fiziksel hesaplamalar ve kullanıcı etkileşimi açısından örnek bir uygulamasıdır. Oyunun hem eğlenceli hem de öğretici yapısı, oyun geliştiriciler ve öğrenciler için ilham kaynağı olabilir.
+- Bu proje, Unreal Engine 5 kullanılarak geliştirilen fizik temelli bir parkur oyununun temel oyun mekaniği, fiziksel hesaplamalar ve kullanıcı etkileşimi açısından örnek bir uygulamasıdır. Oyunun hem eğlenceli hem de öğretici yapısı, oyun geliştiriciler ve öğrenciler için ilham kaynağı olabilir.
 
