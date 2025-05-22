@@ -11,9 +11,9 @@ https://drive.google.com/file/d/1aKltUhfr-m7WWU4NGcMEncMyQZC0E52x/view?usp=shari
 Fizik Tabanlı Parkur Oyunu
 
 2. Geliştirme Ortamı
-Oyun Motoru: Unreal Engine 5
-Programlama Dili: Blueprints & C++
-Hedef Platform: PC
+- Oyun Motoru: Unreal Engine 5
+- Programlama Dili: Blueprints & C++
+- Hedef Platform: PC
 
 3. Proje Amacı
 Bu projenin amacı, oyunculara hem eğlenceli hem de öğretici bir deneyim sunan, fizik kurallarına dayalı bir parkur oyunu geliştirmektir. Oyuncu, çeşitli fiziksel engelleri ve mekanikleri aşarak oyunu tamamlamaya çalışır. Proje kapsamında fizik ilkeleri (ivme, sürtünme vb.) oyun mekaniğine entegre edilmiştir.
